@@ -1,16 +1,17 @@
-# bai1
+# Bài tập Flutter mở đầu
 
 A new Flutter project.
 
-## Getting Started
+## Bắt đầu
 
-This project is a starting point for a Flutter application.
+Dự án này là một điểm khởi đầu cho một ứng dụng Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Một số hình ảnh về sản phẩm trên :
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Tux, the Linux mascot](/img/main.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Để được trợ giúp bắt đầu với Flutter, hãy xem tài liệu trực tuyến của chúng tôi, tài liệu này cung cấp các hướng dẫn, mẫu, hướng dẫn về phát triển thiết bị di động và tài liệu tham khảo.
+
+
+**Nickname** : <span style="colors.green">*Anh Báo*</span>
